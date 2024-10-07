@@ -1,8 +1,9 @@
 # Vehicle-Builder-
-Build your own vehicle, or not... This command-line application will build your own vehicle with options. Also it gives you the option to choose an existing vehicle that has already been created
+
 
 ## Description
-A brief overview of what your project is about and what problems it solves.
+Build your own vehicle, or not... This command-line application will build your own vehicle with options. Also it gives you the option to choose an existing vehicle that has already been created
+walkthrough video included at https://drive.google.com/file/d/17132nDX0BaTrlbyyM-Za9NgrzHmSpcrq/view?usp=sharing
 
 
 ## Table of Contents
@@ -21,10 +22,16 @@ node index.js
 ``` 
 
 ## Contributing
- Destineeco (github)
+Destineeco (github)
 
  ## License
 n/a
+
+## Questions
+if you have any questions please contect me at desmil.co@gmail.com
+
+walkthrough video included at https://drive.google.com/file/d/17132nDX0BaTrlbyyM-Za9NgrzHmSpcrq/view?usp=sharing
+
 
 
 
